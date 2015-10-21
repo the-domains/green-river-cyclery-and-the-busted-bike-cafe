@@ -1,20 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?t=42&v=g9KUYtANP4o'
+inLanguage: null
+starred: false
+keywords: []
 description: 'https://youtu.be/g9KUYtANP4o'
+datePublished: '2015-10-21T03:59:15.462Z'
+dateModified: '2015-10-21T03:58:51.176Z'
 author: []
-datePublished: '2015-10-21T03:58:00.660Z'
-publisher:
-  domain: www.youtube.com
-  name: youtube.com
 title: ''
-dateModified: '2015-10-21T03:56:55.361Z'
 sourcePath: _posts/2015-10-21-httpsyoutubeg9kuytanp4o.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: httpsyoutubeg9kuytanp4o/index.html
+authors: []
+publisher:
+  name: youtube.com
+  domain: www.youtube.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-https://youtu.be/g9KUYtANP4o
+[https://youtu.be/g9KUYtANP4o][0]
+
+[0]: https://youtu.be/g9KUYtANP4o
