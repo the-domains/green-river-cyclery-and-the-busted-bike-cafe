@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.artcrank.com'
-  name: artcrank.com
-  favicon: 'http://www.artcrank.com/favicon.ico'
-  domain: www.artcrank.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.artcrank.com/home/bp-the-four-fates'
+inLanguage: en
+starred: false
 keywords:
   - poster
   - artcrank
@@ -18,17 +17,20 @@ keywords:
   - doodler
   - overwhelming
 description: by Benjamin Pierce
-inLanguage: en
+datePublished: '2015-10-21T04:02:32.869Z'
+dateModified: '2015-10-21T04:02:15.957Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.artcrank.com/home/bp-the-four-fates'
 title: The Four Fates
-datePublished: '2015-10-21T03:58:00.418Z'
-dateModified: '2015-10-21T03:56:07.604Z'
 sourcePath: _posts/2015-10-21-the-four-fates.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: artcrank.com
+  domain: www.artcrank.com
+  url: 'http://www.artcrank.com'
+  favicon: 'http://www.artcrank.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
