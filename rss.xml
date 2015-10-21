@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Green River Cyclery and the Busted Bike Cafe]]></title>
+        <description><![CDATA[Green River Cyclery and the Busted Bike Cafe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 21 Oct 2015 03:33:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Green River Cyclery and the Busted Bike Cafe | Auburn WA]]></title>
+            <description><![CDATA[<article><h1>Green River Cyclery and the Busted Bike Cafe | Auburn WA</h1><p>Full service bike shop and coffee bar. We sell and service bicycles along with providing bike fitting services. We also sell espresso and lunch items.</p></article>]]></description>
+            <link>http://www.greenrivercyclery.bike/</link>
+            <guid isPermaLink="false">3321e2e9-18a9-4b40-9a80-3a72ab3b1412</guid>
+            <pubDate>Wed, 21 Oct 2015 03:33:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
