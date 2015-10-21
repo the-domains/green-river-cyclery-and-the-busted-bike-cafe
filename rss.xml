@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Green River Cyclery and the Busted Bike Cafe]]></title>
         <description><![CDATA[Green River Cyclery and the Busted Bike Cafe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/green-river-cyclery-and-the-busted-bike-cafe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 03:33:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 03:33:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/green-river-cyclery-and-the-busted-bike-cafe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New floors]]></title>
+            <description><![CDATA[<article><h1>New floors</h1><p>Shiny new stained concrete</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3398cb8-4f38-40e9-b557-57f88f64cee0.JPG"></article>]]></description>
+            <link>https://thegrid.ai/green-river-cyclery-and-the-busted-bike-cafe/eb339c2f-8a6d-4274-96a1-0afe1b3ce0a2/index.html</link>
+            <guid isPermaLink="false">eb339c2f-8a6d-4274-96a1-0afe1b3ce0a2</guid>
+            <pubDate>Wed, 21 Oct 2015 03:33:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Green River Cyclery and the Busted Bike Cafe | Auburn WA]]></title>
             <description><![CDATA[<article><h1>Green River Cyclery and the Busted Bike Cafe | Auburn WA</h1><p>Full service bike shop and coffee bar. We sell and service bicycles along with providing bike fitting services. We also sell espresso and lunch items.</p></article>]]></description>
